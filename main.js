@@ -9,10 +9,6 @@ function preload(){
 
 }
 
-function playSound(){
-    Msound.play();
-}
-
 function setup(){
 
     canvas = createCanvas(500,500);
